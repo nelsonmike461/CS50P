@@ -1,6 +1,6 @@
 # CS50’s Introduction to Programming with Python
 
-[![Certificate](./static/CS50P-A4.png)](https://certificates.cs50.io/91ff1785-dc88-4665-99ae-14a39655d724.png?size=A4)
+[![Certificate](/static/CS50P-A4.png)](https://certificates.cs50.io/91ff1785-dc88-4665-99ae-14a39655d724.png?size=A4)
 
 ### These are my solutions for CS50's Introduction to Programming with Python 2023.
 
